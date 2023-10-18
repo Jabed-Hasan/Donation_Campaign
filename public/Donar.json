@@ -1,0 +1,137 @@
+
+[
+      {
+        "id": 1,
+        "picture": "https://i.ibb.co/pbd8FwS/Rectangle-4284.png",
+        "title": "Medical Supplies Donation",
+        "category": "Health",
+        "category_bg": "#AEC8FF",
+        "card_bg": "#D9E5FF",
+        "text_button_bg": "#5189FF",
+        "description": "Support the provision of essential medical supplies to hospitals and healthcare centers.",
+        "price": "$50.00"
+      },
+      {
+        "id": 2,
+        "picture": "https://i.ibb.co/t3hhxXG/Rectangle-4288.png",
+        "title": "Good Education",
+        "category": "Education",
+        "category_bg": "#FFC3C5",
+        "card_bg": "#FFE3E4",
+        "text_button_bg": "#FF444A",
+        "description": "Contribute to a scholarship program that helps underprivileged students access quality education.",
+        "price": "$25.00"
+      },
+      {
+        "id": 3,
+        "picture": "https://i.ibb.co/NmRGN2V/Clothing.png",
+        "title": "Warm Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "#79C23F26",
+        "card_bg": "#79C23F33",
+        "text_button_bg": "#79C23F",
+        "description": "Donate warm clothing items to help those in need during the cold winter months.",
+        "price": "$10.00"
+      },
+      {
+        "id": 4,
+        "picture": "https://i.ibb.co/yVcxrqJ/Rectangle-4287-2.png",
+        "title": "Food Bank Support",
+        "category": "Food",
+        "category_bg": "#F8714726",
+        "card_bg": "#F8714733",
+        "text_button_bg": "#F87147",
+        "description": "Contribute to a food bank to provide meals to individuals and families facing hunger.",
+        "price": "$20.00"
+      },
+      {
+        "id": 5,
+        "picture": "https://i.ibb.co/pbd8FwS/Rectangle-4284.png",
+        "title": "Healthcare for Children",
+        "category": "Health",
+        "category_bg": "#AEC8FF",
+        "card_bg": "#D9E5FF",
+        "text_button_bg": "#5189FF",
+        "description": "Support healthcare services for children in underserved communities.",
+        "price": "$30.00"
+      },
+      {
+        "id": 6,
+        "picture": "https://i.ibb.co/t3hhxXG/Rectangle-4288.png",
+        "title": "Educational Materials",
+        "category": "Education",
+        "category_bg": "#FFC3C5",
+        "card_bg": "#FFE3E4",
+        "text_button_bg": "#FF444A",
+        "description": "Provide educational materials and books to schools in need.",
+        "price": "$15.00"
+      },
+      {
+        "id": 7,
+        "picture": "https://i.ibb.co/NmRGN2V/Clothing.png",
+        "title": "Clothing for the Homeless",
+        "category": "Clothing",
+        "category_bg": "#79C23F26",
+        "card_bg": "#79C23F33",
+        "text_button_bg": "#79C23F",
+        "description": "Donate clothing items to support homeless individuals in your community.",
+        "price": "$10.00"
+      },
+      {
+        "id": 8,
+        "picture": "https://i.ibb.co/yVcxrqJ/Rectangle-4287-2.png",
+        "title": "Food Security Project",
+        "category": "Food",
+        "category_bg": "#F8714726",
+        "card_bg": "#F8714733",
+        "text_button_bg": "#F87147",
+        "description": "Contribute to a food security project aimed at eradicating hunger in your region.",
+        "price": "$25.00"
+      },
+      {
+        "id": 9,
+        "picture": "https://i.ibb.co/pbd8FwS/Rectangle-4284.png",
+        "title": "Medical Outreach Program",
+        "category": "Health",
+        "category_bg": "#AEC8FF",
+        "card_bg": "#D9E5FF",
+        "text_button_bg": "#5189FF",
+        "description": "Support a medical outreach program that provides healthcare to underserved communities.",
+        "price": "$40.00"
+      },
+      {
+        "id": 10,
+        "picture": "https://i.ibb.co/t3hhxXG/Rectangle-4288.png",
+        "title": "Educational Scholarships",
+        "category": "Education",
+        "category_bg": "#FFC3C5",
+        "card_bg": "#FFE3E4",
+        "text_button_bg": "#FF444A",
+        "description": "Fund scholarships to help bright students pursue higher education.",
+        "price": "$50.00"
+      },
+      {
+        "id": 11,
+        "picture": "https://i.ibb.co/NmRGN2V/Clothing.png",
+        "title": "Clothing for Children",
+        "category": "Clothing",
+        "category_bg": "#79C23F26",
+        "card_bg": "#79C23F33",
+        "text_button_bg": "#79C23F",
+        "description": "Provide clothing and essentials to children in need.",
+        "price": "$15.00"
+      },
+      {
+        "id": 12,
+        "picture": "https://i.ibb.co/yVcxrqJ/Rectangle-4287-2.png",
+        "title": "Community Food Drive",
+        "category": "Food",
+        "category_bg": "#F8714726",
+        "card_bg": "#F8714733",
+        "text_button_bg": "#F87147",
+        "description": "Organize a community food drive to help those struggling with food insecurity.",
+        "price": "$30.00"
+      }
+    ]
+  
+  
