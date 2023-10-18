@@ -24,7 +24,7 @@ const Home = () => {
         <div className='relative h-[70vh] bg-[url("https://i.ibb.co/bFyGPC9/382241382-351428693981390-7996110641281311187-n.jpg")] opacity-20'></div>
         <div>
           <h1 className='absolute font-semibold left-[6%] bottom-[2%] md:left-[30%] md:bottom-[20%] lg:top-[40%] lg:left-[23%] text-black text-center text-lg lg:text-5xl md:text-2xl items-center border-solid'>I Grow By Helping People In Need</h1>
-          <div className='absolute  lg:text-2xl left-[2%] top-[100%] md:left-[30%] md:top-[90%]  lg:top-[60%] lg:left-[33%]'>
+          <div className='absolute  lg:text-2xl left-[2%] top-[130%] md:left-[30%] md:top-[90%]  lg:top-[60%] lg:left-[33%]'>
             <div >
               <form className='item-center ml-10' onSubmit={onSubmit}>
                 <input
